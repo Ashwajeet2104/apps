@@ -1,0 +1,72 @@
+[
+  {
+    "category": "Emergency Services",
+    "contacts": [
+      {
+        "name": "Ambulance",
+        "number": "108",
+        "description": "Emergency medical services"
+      },
+      {
+        "name": "Fire Brigade",
+        "number": "101",
+        "description": "Fire emergency services"
+      },
+      {
+        "name": "Police",
+        "number": "100",
+        "description": "Police emergency services"
+      }
+    ]
+  },
+  {
+    "category": "Women's Helpline",
+    "contacts": [
+      {
+        "name": "Women Helpline",
+        "number": "1091",
+        "description": "Women in distress"
+      },
+      {
+        "name": "Women's Safety",
+        "number": "181",
+        "description": "Women's safety helpline"
+      }
+    ]
+  },
+  {
+    "category": "Children's Helpline",
+    "contacts": [
+      {
+        "name": "Childline",
+        "number": "1098",
+        "description": "Children in need"
+      },
+      {
+        "name": "Child Abuse",
+        "number": "1098",
+        "description": "Child abuse reporting"
+      }
+    ]
+  },
+  {
+    "category": "Medical Services",
+    "contacts": [
+      {
+        "name": "Medical Emergency",
+        "number": "108",
+        "description": "Medical emergencies"
+      },
+      {
+        "name": "Blood Bank",
+        "number": "104",
+        "description": "Blood bank services"
+      },
+      {
+        "name": "Poison Control",
+        "number": "1066",
+        "description": "Poison control center"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "category": "General Health",
+    "title": {
+      "english": "Stay Hydrated",
+      "marathi": "हायड्रेटेड राहा",
+      "hindi": "हाइड्रेटेड रहें"
+    },
+    "tip": {
+      "english": "Drink at least 8 glasses of water daily to maintain proper hydration and support body functions.",
+      "marathi": "योग्य हायड्रेशन राखण्यासाठी आणि शरीराच्या कार्यांना समर्थन देण्यासाठी दिवसातून कमीत कमी 8 ग्लास पाणी प्या.",
+      "hindi": "उचित हाइड्रेशन बनाए रखने और शरीर के कार्यों का समर्थन करने के लिए दिन में कम से कम 8 गिलास पानी पिएं।"
+    }
+  },
+  {
+    "id": 2,
+    "category": "Exercise",
+    "title": {
+      "english": "Regular Exercise",
+      "marathi": "नियमित व्यायाम",
+      "hindi": "नियमित व्यायाम"
+    },
+    "tip": {
+      "english": "Aim for at least 30 minutes of moderate exercise 5 days a week to maintain cardiovascular health.",
+      "marathi": "हृदयरोग आरोग्य राखण्यासाठी आठवड्यातून 5 दिवस किमान 30 मिनिटे मध्यम व्यायाम करण्याचे लक्ष्य ठेवा.",
+      "hindi": "हृदय स्वास्थ्य बनाए रखने के लिए सप्ताह में 5 दिन कम से कम 30 मिनट का मध्यम व्यायाम करने का लक्ष्य रखें।"
+    }
+  },
+  {
+    "id": 3,
+    "category": "Diet",
+    "title": {
+      "english": "Balanced Diet",
+      "marathi": "संतुलित आहार",
+      "hindi": "संतुलित आहार"
+    },
+    "tip": {
+      "english": "Include fruits, vegetables, whole grains, and lean proteins in your daily meals for optimal nutrition.",
+      "marathi": "इष्टतम पोषणासाठी आपल्या दैनंदिन जेवणात फळे, भाज्या, संपूर्ण धान्ये आणि कमी चरबीयुक्त प्रथिने समाविष्ट करा.",
+      "hindi": "अनुकूलतम पोषण के लिए अपने दैनिक भोजन में फल, सब्जियां, साबुत अनाज और दुबला प्रोटीन शामिल करें।"
+    }
+  }
+]

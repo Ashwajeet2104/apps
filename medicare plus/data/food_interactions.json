@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "drug": "Warfarin (Coumadin)",
+    "food": "Vitamin K rich foods (Spinach, Kale, Broccoli)",
+    "interaction_type": "Caution",
+    "severity": "Moderate",
+    "description": {
+      "english": "Vitamin K can reduce warfarin effectiveness, leading to decreased anticoagulation",
+      "marathi": "व्हिटॅमिन K वार्फरिनची प्रभावीता कमी करू शकते, ज्यामुळे रक्तस्राव-विरोधी प्रभाव कमी होतो",
+      "hindi": "विटामिन K वारफारिन की प्रभावशीलता को कम कर सकता है, जिससे एंटीकोआगुलेशन कम हो जाता है"
+    },
+    "management": {
+      "english": "Maintain consistent vitamin K intake, monitor INR regularly",
+      "marathi": "व्हिटॅमिन K चे सातत्यपूर्ण सेवन ठेवावे, INR नियमित तपासावे",
+      "hindi": "विटामिन K का लगातार सेवन बनाए रखें, नियमित रूप से INR की जांच करें"
+    }
+  },
+  {
+    "id": 2,
+    "drug": "Amlodipine (Norvasc)",
+    "food": "Grapefruit Juice",
+    "interaction_type": "Caution",
+    "severity": "Moderate",
+    "description": {
+      "english": "Grapefruit juice increases amlodipine levels, potentially causing excessive blood pressure lowering",
+      "marathi": "द्राक्षाचा रस अॅम्लोडिपिनची पातळी वाढवतो, ज्यामुळे रक्तदाब जास्त कमी होऊ शकतो",
+      "hindi": "अंगूर का रस एम्लोडिपाइन के स्तर को बढ़ाता है, संभावित रूप से अत्यधिक रक्तचाप कम कर सकता है"
+    },
+    "management": {
+      "english": "Avoid grapefruit juice or maintain consistent intake, monitor blood pressure",
+      "marathi": "द्राक्षाचा रस टाळावा किंवा सातत्यपूर्ण सेवन ठेवावे, रक्तदाब तपासावा",
+      "hindi": "अंगूर के रस से बचें या लगातार सेवन बनाए रखें, रक्तचाप की निगरानी करें"
+    }
+  },
+  {
+    "id": 3,
+    "drug": "Levothyroxine (Synthroid)",
+    "food": "Coffee, Calcium-rich foods",
+    "interaction_type": "Caution",
+    "severity": "Moderate",
+    "description": {
+      "english": "Coffee and calcium can reduce levothyroxine absorption",
+      "marathi": "कॉफी आणि कॅल्शियम लेव्होथायरॉक्सिनचे शोषण कमी करू शकतात",
+      "hindi": "कॉफी और कैल्शियम लेवोथायरॉक्सिन के अवशोषण को कम कर सकते हैं"
+    },
+    "management": {
+      "english": "Take levothyroxine on empty stomach, wait 4 hours before calcium or coffee",
+      "marathi": "लेव्होथायरॉक्सिन रिकाम्या पोटी घ्यावे, कॅल्शियम किंवा कॉफीआधी 4 तास थांबावे",
+      "hindi": "खाली पेट लेवोथायरॉक्सिन लें, कैल्शियम या कॉफी से पहले 4 घंटे इंतजार करें"
+    }
+  },
+  {
+    "id": 4,
+    "drug": "Metformin (Glucophage)",
+    "food": "Alcohol",
+    "interaction_type": "Harmful",
+    "severity": "High",
+    "description": {
+      "english": "Alcohol increases risk of lactic acidosis with metformin",
+      "marathi": "दारू मेटफॉर्मिनसोबत लैक्टिक अॅसिडोसिसचा धोका वाढवते",
+      "hindi": "शराब मेटफॉर्मिन के साथ लैक्टिक एसिडोसिस का जोखिम बढ़ाती है"
+    },
+    "management": {
+      "english": "Limit alcohol intake, avoid binge drinking, monitor for symptoms",
+      "marathi": "दारूचे सेवन मर्यादित करावे, मोठ्या प्रमाणात पिण्याचे टाळावे, लक्षणांकरिता निरीक्षण करावे",
+      "hindi": "शराब का सेवन सीमित करें, अधिक पीने से बचें, लक्षणों के लिए निगरानी करें"
+    }
+  },
+  {
+    "id": 5,
+    "drug": "Ibuprofen (Advil, Motrin)",
+    "food": "Alcohol",
+    "interaction_type": "Caution",
+    "severity": "Moderate",
+    "description": {
+      "english": "Increased risk of stomach bleeding and liver problems",
+      "marathi": "पोटातील रक्तस्राव आणि यकृत समस्यांचा वाढलेला धोका",
+      "hindi": "पेट में ब्लीडिंग और लिवर की समस्याओं का बढ़ता जोखिम"
+    },
+    "management": {
+      "english": "Limit alcohol, take with food, monitor for stomach pain or bleeding",
+      "marathi": "दारू मर्यादित करावी, अन्नासोबत घ्यावे, पोटदुखी किंवा रक्तस्रावाकरिता निरीक्षण करावे",
+      "hindi": "शराब सीमित करें, खाने के साथ लें, पेट दर्द या रक्तस्राव के लिए निगरानी करें"
+    }
+  }
+]

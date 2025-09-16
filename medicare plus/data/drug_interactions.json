@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "drug1": "Warfarin (Coumadin)",
+    "drug2": "Aspirin (Bayer)",
+    "interaction_type": "Harmful",
+    "severity": "High",
+    "description": {
+      "english": "Increased bleeding risk due to combined anticoagulant effects",
+      "marathi": "एकत्रित रक्तस्राव-विरोधी प्रभावांमुळे रक्तस्रावाचा धोका वाढतो",
+      "hindi": "संयुक्त एंटीकोआगुलेंट प्रभावों के कारण रक्तस्राव का जोखिम बढ़ जाता है"
+    },
+    "management": {
+      "english": "Avoid combination or use with extreme caution. Monitor INR closely",
+      "marathi": "संयोजन टाळावे किंवा अत्यंत सावधगिरीने वापरावे. INR चे जवळून निरीक्षण करावे",
+      "hindi": "संयोजन से बचें या अत्यधिक सावधानी से उपयोग करें। INR की बारीकी से निगरानी करें"
+    }
+  },
+  {
+    "id": 2,
+    "drug1": "Lisinopril (Zestril, Prinivil)",
+    "drug2": "Spironolactone (Aldactone)",
+    "interaction_type": "Caution",
+    "severity": "Moderate",
+    "description": {
+      "english": "Risk of hyperkalemia due to potassium retention",
+      "marathi": "पोटॅशियम साठवणुकीमुळे हायपरकॅलेमियाचा धोका",
+      "hindi": "पोटेशियम प्रतिधारण के कारण हाइपरकैलेमिया का जोखिम"
+    },
+    "management": {
+      "english": "Monitor serum potassium levels regularly, consider dose adjustment",
+      "marathi": "सीरम पोटॅशियम पातळी नियमितपणे तपासावी, डोस समायोजनाचा विचार करावा",
+      "hindi": "सीरम पोटेशियम के स्तर की नियमित निगरानी करें, खुराक समायोजन पर विचार करें"
+    }
+  },
+  {
+    "id": 3,
+    "drug1": "Metformin (Glucophage)",
+    "drug2": "Furosemide (Lasix)",
+    "interaction_type": "Caution",
+    "severity": "Moderate",
+    "description": {
+      "english": "Furosemide may increase metformin levels and lactic acidosis risk",
+      "marathi": "फुरोसेमाइड मेटफॉर्मिनची पातळी वाढवू शकते आणि लैक्टिक अॅसिडोसिसचा धोका वाढवू शकते",
+      "hindi": "फ्यूरोसेमाइड मेटफॉर्मिन के स्तर को बढ़ा सकता है और लैक्टिक एसिडोसिस का जोखिम बढ़ा सकता है"
+    },
+    "management": {
+      "english": "Monitor renal function, consider dose adjustment of metformin",
+      "marathi": "वृक्क कार्य तपासावे, मेटफॉर्मिनच्या डोसमध्ये समायोजनाचा विचार करावा",
+      "hindi": "गुर्दे के कार्य की निगरानी करें, मेटफॉर्मिन की खुराक समायोजन पर विचार करें"
+    }
+  },
+  {
+    "id": 4,
+    "drug1": "Amlodipine (Norvasc)",
+    "drug2": "Atorvastatin (Lipitor)",
+    "interaction_type": "Safe",
+    "severity": "Low",
+    "description": {
+      "english": "Generally safe combination, commonly prescribed together",
+      "marathi": "सामान्यतः सुरक्षित संयोजन, सामान्यतः एकत्र लिहून दिले जाते",
+      "hindi": "आमतौर पर सुरक्षित संयोजन, आमतौर पर एक साथ निर्धारित किया जाता है"
+    },
+    "management": {
+      "english": "No special precautions needed, routine monitoring sufficient",
+      "marathi": "कोणत्याही विशेष खबरदारीची गरज नाही, नियमित निरीक्षण पुरेसे",
+      "hindi": "कोई विशेष सावधानी की आवश्यकता नहीं, नियमित निगरानी पर्याप्त है"
+    }
+  },
+  {
+    "id": 5,
+    "drug1": "Digoxin (Lanoxin)",
+    "drug2": "Amiodarone (Pacerone)",
+    "interaction_type": "Harmful",
+    "severity": "High",
+    "description": {
+      "english": "Amiodarone significantly increases digoxin levels, risk of toxicity",
+      "marathi": "अॅमिओडारोन डिगॉक्सिनची पातळी लक्षणीयरीत्या वाढवते, विषाक्ततेचा धोका",
+      "hindi": "एमियोडैरोन डिगॉक्सिन के स्तर को काफी बढ़ाता है, विषाक्तता का जोखिम"
+    },
+    "management": {
+      "english": "Reduce digoxin dose by 50%, monitor digoxin levels closely",
+      "marathi": "डिगॉक्सिनचा डोस 50% ने कमी करावा, डिगॉक्सिन पातळी जवळून तपासावी",
+      "hindi": "डिगॉक्सिन की खुराक 50% कम करें, डिगॉक्सिन के स्तर की बारीकी से निगरानी करें"
+    }
+  }
+]
